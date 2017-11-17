@@ -1,0 +1,13 @@
+appid:wxbb6dc52840190c32
+公众账号：
+https://mp.weixin.qq.com/cgi-bin/wxopen?action=list&token=1255043588&lang=zh_CN
+
+开发平台：
+https://open.weixin.qq.com/cgi-bin/applist?t=manage/list&lang=zh_CN&token=3752e71b84ede12d5d5cd00d1bc1283b57606f0e
+
+
+保险2：wxfdb0e4f3edf558b2
+
+
+
+

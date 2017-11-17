@@ -1,0 +1,11 @@
+<!--indexwxml--> 
+ <view class="refresh-block" style="height: {{refreshHeight}}px;" wx:if="{{refreshing}}"> 
+ <image animation="{{refreshAnimation}}" src="/images/refreshpng"></image> 
+ </view> 
+<scroll-view scroll-y="true" style="height: {{windowHeight}}px;" bindscroll="scroll" bindscrolltolower="lower" bindscrolltoupper="upper" 
+catchtouchmove="move" catchtouchstart="start" catchtouchend="end" 
+> 
+<block wx:for="{{words}}"> 
+  <view class="item-style">{{itemname}}</view> 
+</block> 
+</scroll-view> 
